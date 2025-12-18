@@ -1,5 +1,0 @@
-num = 5
-if num % 2 == 0:  # Remainder of the division is zero indicates it is even number
-    print("The number is even.")
-else:
-    print("The number is odd.")
